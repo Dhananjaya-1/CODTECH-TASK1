@@ -1,6 +1,6 @@
-### **Name:** E MOUNIKA
+### **Name:** NAMALA DHANANJAYA
 ### **Company:** CODTECH IT SOLUTIONS
-### **ID:** CT6WDS1199
+### **ID:** CT4CC3537
 ### **Domain:** CLOUD COMPUTING
 ### **Duration:** JULY to AUGUST 2024
 ### **Mentor:** Neela Santhosh kumar
